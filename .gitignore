@@ -4,7 +4,7 @@
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
-
+image-classification/cifar-10-*
 .ipynb_checkpoints/
 
 
